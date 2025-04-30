@@ -1,4 +1,4 @@
-<h1 align="center" color:#00ff00> Welcome to Mufty Develops's Page! 👋</h1>
+<h1 align="center" color:#00ff00> Hey there, welcome to my profile , I am Noellisa </h1>
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Public+Speaker;UI/UX+Designer;Computer+Science+Student;Open-Source+Contributor;Freelancer" alt="Typing SVG" />
 </h2>
