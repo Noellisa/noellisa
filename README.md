@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/noellisaopokudarko/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/195568a5-9a1a-4220-b163-a67e4c29bd6a"/></a>
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BdXx5WgCOS6e1diJf0Kb6aw%3D%3D"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://github.com/user-attachments/assets/195568a5-9a1a-4220-b163-a67e4c29bd6a"/></a>
   <a href="https://instagram.com/spirit_inthe_frame"><img width="40px" alt="Instagram" title="Instagram" src="https://github.com/user-attachments/assets/b8a45192-a59c-4a16-8fa8-cfe974ffbc49"/></a>
 </p>
 
