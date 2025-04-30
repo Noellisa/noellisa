@@ -12,38 +12,22 @@
 I am Noellisa, a sophmore at Central Univeristy, I have multiple interests but I am mostly dedicated to spurring on people to being their best version in whatever pscae they find themselves.  
   
 ---
-<p align="center">
-    <img alt="YouTube Subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  &#8287;&#8287;
-  <a href="https://www.youtube.com/@muftydevelops">
-    <img alt="YouTube Views" title="Total views on YouTube" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>
-  &#8287;&#8287;
-  <a href="https://github.com/muftydevelops?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/muftydevelops?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  &#8287;&#8287;
-  <a href="https://github.com/muftydevelops?tab=followers">
-    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/muftydevelops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  &#8287;&#8287;
-  <a href="https://github.com/muftydevelops">
-    <img alt="Profile Views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
   <h4>MY Tech Stack</h4>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts,jquery,nodejs,npm,express,postgres,dart,python,java," alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,figma,canva,draw.io,python,java," alt="Tech Stack" />
 </div>
 
 
 # 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuftyDevelops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Noellisa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="500"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MuftyDevelops&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Noellisa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="500"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuftyDevelops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noellisa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
 </p>
 
 
