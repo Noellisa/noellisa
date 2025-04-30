@@ -17,7 +17,6 @@ I am Noellisa, a sophmore at Central Univeristy, I have multiple interests but I
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,figma,canva,draw.io,python,java," alt="Tech Stack" />
 </div>
 
-
 # 📈 My GitHub Stats
 
 <p align="center">
@@ -29,5 +28,6 @@ I am Noellisa, a sophmore at Central Univeristy, I have multiple interests but I
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noellisa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500"/>
 </p>
+
 
 
